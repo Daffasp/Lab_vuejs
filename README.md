@@ -27,7 +27,7 @@ Praktikum ini membahas cara penggunaan **VueJS secara manual (tanpa NPM)** mengg
 ```html
 <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
 
-## 📄 File: `index.html`
+### 📄 File: `index.html`
 
 ```html
 <!DOCTYPE html>
