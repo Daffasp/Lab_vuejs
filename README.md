@@ -150,6 +150,62 @@ createApp({
     }
   }
 }).mount('#app')
+```
+## 📸 Hasil Output
+![image](https://github.com/user-attachments/assets/63119dba-dfe4-4666-ad8b-68916e196558)
+
+## 🎨 File: `assets/css/style.css`
+
+File ini berisi styling dasar untuk tampilan aplikasi artikel VueJS. Gaya yang digunakan bersifat minimalis dan responsif.
+
+```css
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input, textarea {
+  display: block;
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 8px;
+}
+
+button {
+  padding: 8px 12px;
+  margin-right: 5px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+```
+## 📸 Hasil Output
+![image](https://github.com/user-attachments/assets/66aae9e2-a7ba-48b5-ab0a-4e77f69f8449)
+
 
 
 
