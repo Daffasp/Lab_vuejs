@@ -24,7 +24,11 @@ Praktikum ini membahas cara penggunaan **VueJS secara manual (tanpa NPM)** mengg
 ## 🔧 Library yang Digunakan
 
 ### VueJS
+```html
 <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+```
+
+
 
 
 
